@@ -1,4 +1,4 @@
-﻿# Mobile-first responsive Bulid
+﻿# Mobile-first responsive portfolio
 
 - CSS Grid
 - Strongly focused on mobile experience
@@ -9,8 +9,8 @@
 
 - [x] HTML structure
 - [x] Styles for mobiles
-- [ ] Styles for small tablets
-- [ ] Styles for large tablets
+- [x] Styles for small tablets
+- [ ] Styles for large tablets & laptops
 - [ ] Styles for desktops
 - [ ] Refactoring & Tests
 
